@@ -1,0 +1,140 @@
+body{
+    background-color: gainsboro;
+}
+.customNav{
+    box-shadow: 0px 6px 15px rgba(0,0,0,0.5);
+}
+.customNav ul.dropdown-menu{
+    font-size: small;
+}
+.custom-divider{
+    height: 6px;
+    background: rgb(56,1,1);
+    background: radial-gradient(circle, rgba(56,1,1,1) 0%, rgba(207,208,6,1) 16%, rgba(20,138,9,1) 32%, rgba(6,237,235,1) 48%, rgba(0,0,0,1) 62%, rgba(72,3,124,1) 75%, rgba(129,11,104,1) 89%, rgba(255,0,73,1) 100%); 
+}
+.main-banner{
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url(../project3_Education/background_Img/Wood.jpg);
+    background-size: cover;
+    color: white;
+}
+.main-banner .error-not-found{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid white;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+.custom_txt{
+    background-color: blanchedalmond;
+    color: black;
+    padding: 10px;
+    font-size: medium;
+}
+.feature-holder{
+    padding: 10px;
+    text-align: center;
+    color: whitesmoke;
+    border: 2px solid red;
+    border-bottom-right-radius: 55px;
+    border-top-left-radius: 55px;
+    background-color: rgb(3, 3, 83);
+}
+.feature-holder h3{
+    color: red;
+    font-family: 'Freckle Face', cursive;
+}
+section.online-courses{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: gainsboro;
+}
+.custom-line{
+    height: 6px;
+    background: rgb(44,26,164);
+    background: radial-gradient(circle, rgba(44,26,164,1) 0%, rgba(140,43,130,1) 11%, rgba(58,194,63,1) 22%, rgba(245,106,0,1) 34%, rgba(2,33,23,1) 50%, rgba(21,83,180,1) 62%, rgba(74,4,164,1) 74%, rgba(255,0,0,1) 87%, rgba(252,176,69,1) 100%); 
+}
+.classroom-text-widget , .page-content{
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.classroom-training{
+    background-color: gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.sign-up-form-sidebar{
+    font-size: x-small;
+}
+.course-list-item{
+    color: black;
+    padding-top: 15px;
+    padding-bottom:15px;
+}
+.review-slider img{
+    height: 63px;
+}
+#slider-content{
+    list-style: none;
+}
+li .card-body{
+    padding-top: 15px;
+}
+#review-slider-content li .card-body{
+    text-align: center;
+}
+#review-slider-content li .card-body img{
+    width: 70px;
+    margin-bottom: 10px;
+}
+#review-slider-content li .card-body .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#review-slider-content li .card .star{
+    color: gold;
+    font-size: 14px;
+}
+#review-slider-content li .card .card-text{
+    font-size: small;
+}
+.main-footer{
+    padding-top: 20px;
+    background-color: rgb(105, 105, 105);
+    color: white;
+}
+.main-footer h2{
+    font-size: 1.5rem;
+
+}
+.footer-widget ul{
+    list-style:none;
+    padding: 0px;
+    margin: 0px;
+}
+.footer-widget li a{
+    text-decoration: none;
+    font-size: small;
+    color: gainsboro;
+    padding: 15px;
+    margin: 2px;
+}
+.footer-widget p{
+    font-size: 12px;
+}
+.copy{
+    text-align: center;
+    background-color: rgb(58, 54, 54);
+    color: white;
+}
+.copy p{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.google-map{
+    padding-top: 60px;
+}
