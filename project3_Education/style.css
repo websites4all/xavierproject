@@ -15,7 +15,7 @@ body{
 .main-banner{
     padding-top: 150px;
     padding-bottom: 100px;
-    background-image: url(../project3_Education/background_Img/Wood.jpg);
+    background-image: url("https://source.unsplash.com/random");
     background-size: cover;
     color: white;
 }
