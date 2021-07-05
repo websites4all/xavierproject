@@ -15,7 +15,7 @@ body{
 .main-banner{
     padding-top: 150px;
     padding-bottom: 100px;
-    background-image: url(Image by <a href="https://pixabay.com/users/messomx-755571/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1256804">messomx</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1256804">Pixabay</a>);
+    background-image: url(../background_Img/wood.jpg);
     background-size: cover;
     color: white;
 }
